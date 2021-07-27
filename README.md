@@ -1,6 +1,3 @@
-# fpa
-Data 620 Final Project A
-
 This is a network analysis project with messy real-world data.  To prevent any "github dorking" I will refrain from using sensitive keywords in this description.
 
 ### Data
