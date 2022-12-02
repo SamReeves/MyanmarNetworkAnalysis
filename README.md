@@ -1,4 +1,4 @@
-This is a network analysis project with messy real-world data.  To prevent any "github dorking" I will refrain from using sensitive keywords in this description.
+This is a network analysis project with messy real-world data. The base data is from two fairly large hacks detailing the incorporation documents of a very large amount of companies in Myanmar.  From this, a network graph is generated to demonstrate who the most connected people and businesses are to the military junta.
 
 ### Data
 ***
